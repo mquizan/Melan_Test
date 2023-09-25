@@ -1,0 +1,69 @@
+.AboutLayout_aboutContent__q_nnA .AboutLayout_sidebar__ihkRr {
+    background-color: #fff;
+  }
+  @media only screen and (min-width: 1080px) {
+    .AboutLayout_aboutContent__q_nnA .AboutLayout_sidebar__ihkRr {
+      background-color: #fff;
+      border-right: 1px solid #ddd;
+    }
+  }
+  .AboutLayout_aboutContent__q_nnA
+    .AboutLayout_sidebar__ihkRr
+    .AboutLayout_aboutNav__g4Pom
+    .AboutLayout_aboutLinks__KartF
+    .AboutLayout_aboutLink___0sK1 {
+    border-bottom: 1px solid #ddd;
+    color: #000;
+  }
+  .AboutLayout_aboutContent__q_nnA
+    .AboutLayout_sidebar__ihkRr
+    .AboutLayout_aboutNav__g4Pom
+    .AboutLayout_aboutLinks__KartF
+    .AboutLayout_aboutLink___0sK1.AboutLayout_active__H5ZI7 {
+    color: #562d8a;
+    background-color: #f7f8fa;
+  }
+  .AboutLayout_aboutContent__q_nnA
+    .AboutLayout_sidebar__ihkRr
+    .AboutLayout_aboutNav__g4Pom
+    .AboutLayout_aboutLinks__KartF
+    .AboutLayout_aboutLink___0sK1:hover {
+    background-color: #f7f8fa;
+  }
+  .AboutLayout_aboutContent__q_nnA
+    .AboutLayout_sidebar__ihkRr
+    .AboutLayout_aboutNav__g4Pom
+    .AboutLayout_aboutLinks__KartF
+    .AboutLayout_aboutLink___0sK1.AboutLayout_selected__yTF4c {
+    color: #562d8a;
+    background-color: #f7f8fa;
+  }
+  .AboutLayout_aboutContent__q_nnA
+    .AboutLayout_sidebar__ihkRr
+    .AboutLayout_aboutNav__g4Pom
+    .AboutLayout_aboutLinks__KartF
+    .AboutLayout_aboutLink___0sK1.AboutLayout_disabled__h5Byv {
+    font-weight: 300;
+    color: #959595;
+    background-color: #fff;
+  }
+  .AboutLayout_aboutContent__q_nnA
+    .AboutLayout_sidebar__ihkRr
+    .AboutLayout_aboutNav__g4Pom
+    .AboutLayout_aboutLinks__KartF
+    .AboutLayout_aboutLink___0sK1:after {
+    filter: invert(19%) sepia(56%) saturate(1957%) hue-rotate(245deg)
+      brightness(97%) contrast(96%);
+    background-size: 20px 20px;
+  }
+  .CMSData_section__0agCk {
+    margin-bottom: 40px;
+  }
+  .CMSData_section__0agCk li {
+    margin: 25px 0 0 10px;
+    font-size: 18px;
+  }
+  .CMSData_heading___7FVE {
+    margin-bottom: 10px;
+  }
+  
